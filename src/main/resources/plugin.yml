@@ -1,0 +1,5 @@
+name: SizeChange
+version: '${project.version}'
+main: pro.freeserver.takenoh.SizeChange.SizeChange
+api-version: 1.19
+
